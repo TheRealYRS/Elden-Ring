@@ -23,7 +23,7 @@ With over 300 weapons in *Elden Ring*, players often struggle to choose the most
 ## 🧠 Key KPIs
 | Metric | Value |
 |--------|-------|
-| Total Weapons | 324 |
+| Total Weapons | 307 |
 | Max Total Damage | 672 |
 | Average Weapon Weight | 7.12 |
 | Most Common Scaling Stat | Strength |
