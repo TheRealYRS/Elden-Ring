@@ -51,9 +51,6 @@ Compact cards for:
 - Lightest weapon with 500+ damage
 - Avg. weight and damage
 
-### 💡 Bonus: Weapon Tips Text Box
-Displays rotating Elden Ring weapon tips, facts, or hidden synergies for added value.
-
 ---
 
 ## 🏗 Tools Used
